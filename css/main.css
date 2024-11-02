@@ -542,7 +542,7 @@ h1.navbar-brand {
 .owl-buttons {
     border: 2px solid #fff;
     display: inline-block;
-    float: right;
+    /* float: right; */
     padding: 1px 8px 5px;
 }
 
